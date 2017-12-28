@@ -2,3 +2,5 @@ watch_later/
 vs-plugins/
 icc-cache/
 mpv-livetweet.lua
+.DS_Store
+Thumbs.db
